@@ -50,7 +50,7 @@ Because of time constraints this project lacks of:
 
 
 
-# superuser is to be created
+ superuser is to be created
  
 
 
